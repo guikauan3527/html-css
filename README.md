@@ -27,14 +27,11 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
     <li><a href="https://guikauan3527.github.io/html-css/exercícios/ex020/hover.html" target="_blank">Exercício 020</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex020/links.html" target="_blank">exercício 020.2</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex020/links2.html" target="_blank">Exercício 020.3</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex020/pseudoclasse.html" target="_blank">Exercício 020.4</a></li>
     <li><a href="https://guikauan3527.github.io/html-css/exercícios/ex021/caixa01.html" target="_blank">Exercício 021</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex021/caixa02.html" target="_blank">Exercício 021.2</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex021/caixa03.html" target="_blank">Exercício 021.3</a></li>
     <li><a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo001.html" target="_blank">Exercício 022</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo002.html" target="_blank">Exercício 022.2</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo003.html" target="_blank">Exercício 022.3</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo004.html" target="_blank">Exercício 022.4</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo005.html" target="_blank">Exercício 022.5</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo006.html" target="_blank">Exercício 022.6</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo007.html" target="_blank">Exercício 022.7</a></li>
-    </ul>
-    <ul type="circle">
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio001/index.html" target="_blank">Desafio 001</a></li>
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio002/index.html" target="_blank">Desafio 002</a></li>
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio004/index.html" target="_blank">Desafio 004</a></li>
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio005/index.html" target="_blank">Desafio 005</a></li>
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio006/index.html" target="_blank">Desafio 006</a></li>
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio007/index.html" target="_blank">Desafio 007</a></li>
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio008/index.html" target="_blank">Desafio 008</a></li>
-        <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio009/index.html" target="_blank">Desafio 009</a></li>
-    </ul>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio001/index.html" target="_blank">Desafio 001</a></li>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio002/index.html" target="_blank">Desafio 002</a></li>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio004/index.html" target="_blank">Desafio 004</a></li>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio005/index.html" target="_blank">Desafio 005</a></li>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio006/index.html" target="_blank">Desafio 006</a></li>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio007/index.html" target="_blank">Desafio 007</a></li>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio008/index.html" target="_blank">Desafio 008</a></li>
+    <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio009/index.html" target="_blank">Desafio 009</a></li>
