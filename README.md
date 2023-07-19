@@ -3,7 +3,7 @@ Curso de HTML5 e CSS3
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
 
-<h2>Execute os exercícios aqui!</h2>
+<h2>Execute os exercícios e os desafios aqui!</h2>
 <ul>
     <li><a href="https://guikauan3527.github.io/html-css/exercícios/ex001/index.html" target="_blank">Exercício 001</a></li>
     <li><a href="https://guikauan3527.github.io/html-css/exercícios/ex002/index.html" target="_blank">Exercício 002</a></li>
@@ -28,8 +28,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
     <li><a href="https://guikauan3527.github.io/html-css/exercícios/ex021/caixa01.html" target="_blank">Exercício 021</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex021/caixa02.html" target="_blank">Exercício 021.2</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex021/caixa03.html" target="_blank">Exercício 021.3</a></li>
     <li><a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo001.html" target="_blank">Exercício 022</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo002.html" target="_blank">Exercício 022.2</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo003.html" target="_blank">Exercício 022.3</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo004.html" target="_blank">Exercício 022.4</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo005.html" target="_blank">Exercício 022.5</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo006.html" target="_blank">Exercício 022.6</a>/<a href="https://guikauan3527.github.io/html-css/exercícios/ex022/fundo007.html" target="_blank">Exercício 022.7</a></li>
     </ul>
-    <h2>Execute os desafios aqui!</h2>
-    <ul>
+    <ul type="disc">
         <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio001/index.html" target="_blank">Desafio 001</a></li>
         <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio002/index.html" target="_blank">Desafio 002</a></li>
         <li><a href="https://guikauan3527.github.io/html-css/desafios/desafio004/index.html" target="_blank">Desafio 004</a></li>
