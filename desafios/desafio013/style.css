@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 300px;
+    margin: auto;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.cor-a:hover {
+    background-color: aliceblue;
+}
+
+.cor-b:hover {
+    background-color: blue;
+}
+
+.cor-c:hover {
+    background-color: cadetblue;
+}
+
+.cor-d:hover {
+    background-color: darkgoldenrod;
+}
+
+.cor-f:hover {
+    background-color: firebrick;
+}
+
+.cor-g:hover {
+    background-color: gainsboro;
+}
+
+.cor-h:hover {
+    background-color: hotpink;
+}
+
+.cor-i:hover {
+    background-color: indianred;
+}
+
+.cor-k:hover {
+    background-color: khaki;
+}
+
+.cor-l:hover {
+    background-color: lawngreen;
+}
+
+.cor-m:hover {
+    background-color: magenta;
+}
